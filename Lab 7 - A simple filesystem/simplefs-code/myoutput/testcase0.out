@@ -1,0 +1,15 @@
+Write Data: 0
+Seek: 0
+Write Data: 0
+Seek: 0
+Seek: 0
+Read Data -1
+Data: 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<DISK STATE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+DISK NAME: simplefs
+INODE FREELIST:	1	x	x	x	x	x	x	x	
+DATA BLOCK FREELIST:	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+INODE 0
+STATUS:	1	NAME	fileabc	SIZE	128	DATABLOCK	-1	-1	-1	-1	
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

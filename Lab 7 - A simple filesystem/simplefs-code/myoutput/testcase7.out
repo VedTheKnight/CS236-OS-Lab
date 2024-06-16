@@ -1,0 +1,69 @@
+Creating file 0_.txt: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Creating file 1_.txt: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Creating file 2_.txt: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Creating file 3_.txt: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Creating file 4_.txt: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Writing Data: 0
+Creating file 5_.txt: 0
+Writing Data: -1
+Writing Data: -1
+Writing Data: -1
+Writing Data: -1
+Creating file 6_.txt: 0
+Writing Data: -1
+Writing Data: -1
+Writing Data: -1
+Writing Data: -1
+Creating file 7_.txt: 0
+Writing Data: -1
+Writing Data: -1
+Writing Data: -1
+Writing Data: -1
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<DISK STATE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+DISK NAME: simplefs
+INODE FREELIST:	1	1	1	1	1	1	1	1	
+DATA BLOCK FREELIST:	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+INODE 0
+STATUS:	1	NAME	0_.txt	SIZE	256	DATABLOCK	-1	-1	-1	-1	
+
+INODE 1
+STATUS:	1	NAME	1_.txt	SIZE	256	DATABLOCK	-1	-1	-1	-1	
+
+INODE 2
+STATUS:	1	NAME	2_.txt	SIZE	256	DATABLOCK	-1	-1	-1	-1	
+
+INODE 3
+STATUS:	1	NAME	3_.txt	SIZE	256	DATABLOCK	-1	-1	-1	-1	
+
+INODE 4
+STATUS:	1	NAME	4_.txt	SIZE	0	DATABLOCK	-1	-1	-1	-1	
+
+INODE 5
+STATUS:	1	NAME	5_.txt	SIZE	0	DATABLOCK	-1	-1	-1	-1	
+
+INODE 6
+STATUS:	1	NAME	6_.txt	SIZE	0	DATABLOCK	-1	-1	-1	-1	
+
+INODE 7
+STATUS:	1	NAME	7_.txt	SIZE	0	DATABLOCK	-1	-1	-1	-1	
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
